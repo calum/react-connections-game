@@ -61,11 +61,6 @@ export function SolvedWordRow({ ...props }) {
               style={{ backgroundColor: color, borderRadius: 8 }}
               onClick={() => setHasBeenClicked(true)}
             >
-              {!hasBeenClicked && (
-                <Badge className="animate-pulse absolute top-0 right-0 mr-2 mt-2">
-                  View More
-                </Badge>
-              )}
               <p className="font-bold pt-2 pl-4">{props.category}</p>
               <p className="font-thin pb-2 pl-4">{props.words.join(", ")}</p>
             </div>
