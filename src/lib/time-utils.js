@@ -55,7 +55,7 @@ export const getPuzzleOfDay = (index) => {
     throw new Error("Invalid index");
   }
 
-  return CONNECTION_GAMES[index % CONNECTION_GAMES.length];
+  return CONNECTION_GAMES[6];
 };
 
 export const getSolution = (gameDate) => {

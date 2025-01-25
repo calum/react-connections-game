@@ -151,4 +151,30 @@ export const CONNECTION_GAMES = [
       imageSrc: "https://d1isxmzxwhhjbk.cloudfront.net/4/Black-Panthers.png",
     },
   ],
+  [
+    {
+      "category": "Metals",
+      "words": ["Gold", "Tin", "Silver", "Copper"],
+      "difficulty": 1,
+      "imageSrc": "YOUR_SCAN_PHOTO_HERE"
+    },
+    {
+      "category": "Implements in ball sports",
+      "words": ["Bat", "Club", "Mallet", "Cue"],
+      "difficulty": 2,
+      "imageSrc": "https://d1isxmzxwhhjbk.cloudfront.net/4/Cravings.png"
+    },
+    {
+      "category": "____ Man",
+      "words": ["Chair", "Super", "Iron", "Spider"],
+      "difficulty": 3,
+      "imageSrc": "https://d1isxmzxwhhjbk.cloudfront.net/4/Lullaby.png"
+    },
+    {
+      "category": "Caroline is pregnant! Baby due in July!",
+      "words": ["July", "Sibling", "Pregnant", "Baby"],
+      "difficulty": 4,
+      "imageSrc": "YOUR_SCAN_PHOTO_HERE"
+    }
+  ],
 ];
