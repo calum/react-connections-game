@@ -172,7 +172,7 @@ export const CONNECTION_GAMES = [
     },
     {
       "category": "Caroline is pregnant! Baby due in July!",
-      "words": ["July", "Sibling", "Pregnant", "Baby"],
+      "words": ["July", "Sibling", "Bump", "Baby"],
       "difficulty": 4,
       "imageSrc": "YOUR_SCAN_PHOTO_HERE"
     }
